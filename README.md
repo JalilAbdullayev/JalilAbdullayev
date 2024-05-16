@@ -5,18 +5,6 @@
     A passionate Full Stack Web Developer from Azerbaijan
 </h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=jalilabdullayev&label=Profile%20views&color=0e75b6&style=flat"
-         alt="jalilabdullayev"/>
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/jalilabdullayev" target="blank">
-        <img src="https://img.shields.io/twitter/follow/jalilabdullayev?logo=twitter&style=for-the-badge"
-             alt="jalilabdullayev"/>
-    </a>
-</p>
-
 - 🌱 I’m currently learning **SQL Server & C#**
 
 - 👨‍💻 All of my projects are available at [http://jalilabdullayev.free.nf](http://jalilabdullayev.free.nf)
@@ -173,11 +161,6 @@
     &nbsp;
     <img align="center"
          src="https://github-readme-stats.vercel.app/api?username=jalilabdullayev&show_icons=true&theme=dark&locale=en"
-         alt="jalilabdullayev"/>
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark"
          alt="jalilabdullayev"/>
 </p>
 
