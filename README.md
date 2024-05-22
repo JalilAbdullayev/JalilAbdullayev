@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL Server & C#**
 
-- 👨‍💻 All of my projects are available at [https://jalilabdullayev.free.nf](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
 
 - 📫 How to reach me **abdullacelil00@gmail.com**
 
