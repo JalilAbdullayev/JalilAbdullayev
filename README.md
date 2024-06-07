@@ -5,7 +5,7 @@
     A passionate Full Stack Web Developer from Azerbaijan
 </h3>
 
-- 🌱 I’m currently learning **SQL Server & C#**
+- 🌱 I’m currently learning **C# & ASP.NET**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
 
