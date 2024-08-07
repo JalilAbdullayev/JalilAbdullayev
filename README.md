@@ -5,9 +5,9 @@
     A passionate Full Stack Web Developer from Azerbaijan
 </h3>
 
-- 🌱 I’m currently learning **C# & ASP.NET**
+- 🌱 I’m currently learning **Livewire & Filament**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://jalilabdullayev.free.nf)
 
 - 📫 How to reach me **abdullacelil00@gmail.com**
 
