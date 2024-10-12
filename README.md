@@ -93,7 +93,7 @@
 </p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jalilabdullayev" alt="jalilabdullayev" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jalilabdullayev&theme=discord" alt="jalilabdullayev" />
     </a>
 </p>
 <p>
