@@ -95,5 +95,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalilabdullayev&show_icons=true&theme=dark&locale=en&layout=compact" alt="jalilabdullayev"/>
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="jalilabdullayev"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&theme=dark" alt="jalilabdullayev"/>
 </p>
