@@ -5,9 +5,9 @@
     A passionate Full Stack Web Developer from Azerbaijan
 </h3>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](http://jalilabdullayev.free.nf)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
 
 - 📫 How to reach me **abdullacelil00@gmail.com**
 
@@ -81,6 +81,15 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
@@ -89,6 +98,9 @@
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
     </a>
 </p>
 <p>
