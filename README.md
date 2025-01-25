@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
+- 💬 Ask me about anything. I'm happy to help!
 
 - 📫 How to reach me **abdullacelil00@gmail.com**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
 
 <h3 align="left">
     Connect with me:
