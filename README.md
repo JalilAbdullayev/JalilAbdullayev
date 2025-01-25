@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi 👋, I'm Jalil
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>, I'm Jalil
 </h1>
 <h3 align="center">
     A passionate Full Stack Web Developer from Azerbaijan
