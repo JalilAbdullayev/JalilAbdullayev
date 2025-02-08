@@ -111,3 +111,5 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&theme=dark" alt="jalilabdullayev"/>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
