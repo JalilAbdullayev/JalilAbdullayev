@@ -105,20 +105,8 @@
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
     </a>
 </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalilabdullayev&show_icons=true&theme=dark&locale=en&layout=compact" alt="jalilabdullayev"/>
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&theme=dark" alt="jalilabdullayev"/>
-</p>
-<!--START_SECTION:waka-->
-
-```txt
-PHP              9 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
-Astro            5 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Blade Template   5 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-HTML             3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-JavaScript       2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-```
-
-<!--END_SECTION:waka-->
+<a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalilAbdullayev&langs_count=50&layout=compact&theme=dark" alt="jalilabdullayev"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="jalilabdullayev"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=JalilAbdullayev&layout=compact&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="jalilabdullayev" />
