@@ -18,13 +18,13 @@
 </h3>
 <p align="left">
     <a href="https://fb.com/calil.abdullayev00" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calil.abdullayev00" height="30" width="40"/>
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="calil.abdullayev00" height="30" width="40"/>
     </a>
     <a href="https://instagram.com/jalil_abdullayev_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jalil_abdullayev_" height="30" width="40"/>
     </a>
-    <a href="https://twitter.com/jalilabdullayev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jalilabdullayev" height="30" width="40"/>
+    <a href="https://x.com/jalilabdullayev" target="blank">
+        <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="jalilabdullayev" height="30" width="40"/>
     </a>
     <a href="https://linkedin.com/in/jalil-abdullayev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalil-abdullayev" height="30" width="40"/>
@@ -80,13 +80,13 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <a href="https://angular.dev" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
