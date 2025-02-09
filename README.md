@@ -112,4 +112,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&theme=dark" alt="jalilabdullayev"/>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+PHP              9 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Astro            5 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Blade Template   5 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+HTML             3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+JavaScript       2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+```
+
 <!--END_SECTION:waka-->
