@@ -5,7 +5,7 @@
     A passionate Full Stack Web Developer from Azerbaijan
 </h3>
 
-- 🌱 I’m currently learning **Golang**
+[//]: # (- 🌱 I’m currently learning **Golang**)
 
 - 💬 Ask me about anything. I'm happy to help!
 
@@ -96,8 +96,4 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
     </a>
 </p>
-<a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalilAbdullayev&langs_count=50&layout=compact&theme=dark" alt="jalilabdullayev"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JalilAbdullayev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="jalilabdullayev"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=JalilAbdullayev&layout=compact&theme=dark&hide=other" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="jalilabdullayev" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="jalilabdullayev" />
