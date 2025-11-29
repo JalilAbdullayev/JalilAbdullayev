@@ -96,6 +96,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
     </a>
 </p>
-<img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="jalilabdullayev"/>
-<img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="jalilabdullayev"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="jalilabdullayev" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdullayev"/>
+    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdullayev"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="Jalil Abdullayev" />
+</div>
