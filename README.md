@@ -32,13 +32,13 @@
     <a href="https://codepen.io/jalil02" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jalil02" height="30" width="40"/>
     </a>
-    <a href="https://dev.to/jalil02" target="blank">
+    <a href="https://dev.to/jalilabdulla" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jalil02" height="30" width="40"/>
     </a>
     <a href="https://stackoverflow.com/users/13442147" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13442147" height="30" width="40"/>
     </a>
-    <a href="https://medium.com/@jalil_abdullayev" target="blank">
+    <a href="https://jalil-abdulla.medium.com/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jalil_abdullayev" height="30" width="40"/>
     </a>
     <a href="https://www.hackerrank.com/jalil02" target="blank">
