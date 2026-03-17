@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdullacelil00@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdullayev.free.nf)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jalilabdulla.netlify.app)
 
 <h3 align="left">
     Connect with me:
@@ -72,32 +72,29 @@
         <img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/apple-touch-icon.png" alt="bootstrap" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+        <img src="https://tailwindcss.com/favicons/favicon.ico?v=4" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://angular.dev" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        <img src="https://vuejs.org/logo.svg" alt="vuejs" width="40" height="40"/>
     </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+        <img src="https://nuxt.com/icon.png" alt="nuxt" width="40" height="40"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        <img src="https://www.php.net/favicon-196x196.png?v=2" alt="php" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+        <img src="https://laravel.com/img/favicon/favicon.ico" alt="laravel" width="40" height="40"/>
     </a>
 </p>
 <p>
-    <img src="https://raw.githubusercontent.com/JalilAbdulla/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
-    <img src="https://raw.githubusercontent.com/JalilAbdulla/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdulla&theme=dark" alt="Jalil Abdulla" />
+    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
+    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="Jalil Abdulla" />
 </div>
