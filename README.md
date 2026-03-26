@@ -43,4 +43,7 @@
     <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
     <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="Jalil Abdulla" />
-</div>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
