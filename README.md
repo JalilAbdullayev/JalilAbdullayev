@@ -37,7 +37,7 @@
 | **Back-end** | Laravel, NestJS |
 | **Full-stack** | Livewire, Filament |
 | **Databases** | MySQL, SQLite |
-| **Tools** | Git, Fedora Linux, Postman, Antigravity, Warp, Netlify |
+| **Tools** | Git, Postman, Antigravity IDE & CLI, Warp, Netlify |
 
 <p>
     <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
