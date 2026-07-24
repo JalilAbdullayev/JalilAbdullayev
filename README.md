@@ -46,15 +46,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C699%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 807.0 kB Used in GitHub's Storage 
  > 
-> 🏆 738 Contributions in the Year 2026
+> 🏆 742 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                995 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌆 Daytime                1304 commits        ███████████░░░░░░░░░░░░░░   42.01 % 
-🌃 Evening                754 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌞 Morning                998 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌆 Daytime                1305 commits        ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌃 Evening                754 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
 🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Tuesday                  514 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Thursday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Friday                   476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Saturday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Monday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Tuesday                  514 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Wednesday                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Friday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 ```
 
 
@@ -89,25 +89,25 @@ Sunday                   398 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      17 hrs 18 mins      ███████████████░░░░░░░░░░   58.04 % 
-Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-TypeScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-C#                       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+PHP                      15 hrs 38 mins      ██████████████░░░░░░░░░░░   56.92 % 
+Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+TypeScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Cursor                   28 hrs 28 mins      ████████████████████████░   95.48 % 
-VS Code                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Cursor                   27 hrs 12 mins      █████████████████████████   98.98 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-arenda                   18 hrs 1 min        ███████████████░░░░░░░░░░   60.43 % 
-partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-arenda-front             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-personal                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-02_Variables             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+arenda                   16 hrs 4 mins       ███████████████░░░░░░░░░░   58.48 % 
+partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+arenda-front             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+personal                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+arivio                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -127,5 +127,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:56:57 UTC
+ Last Updated on 24/07/2026 19:55:54 UTC
 <!--END_SECTION:waka-->
