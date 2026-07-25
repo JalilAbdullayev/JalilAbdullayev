@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C699%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C702%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -89,25 +89,25 @@ Sunday                   398 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      15 hrs 38 mins      ██████████████░░░░░░░░░░░   56.92 % 
-Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-TypeScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+PHP                      20 hrs 30 mins      ████████████████░░░░░░░░░   63.93 % 
+Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Cursor                   27 hrs 12 mins      █████████████████████████   98.98 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Cursor                   32 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-arenda                   16 hrs 4 mins       ███████████████░░░░░░░░░░   58.48 % 
-partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-arenda-front             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-personal                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-arivio                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+arenda                   20 hrs 57 mins      ████████████████░░░░░░░░░   65.30 % 
+partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+arenda-front             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+personal                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+arivio                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Linux                    27 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -127,5 +127,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:54 UTC
+ Last Updated on 25/07/2026 19:42:54 UTC
 <!--END_SECTION:waka-->
