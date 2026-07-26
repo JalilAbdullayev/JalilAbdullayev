@@ -89,25 +89,24 @@ Sunday                   398 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      20 hrs 30 mins      ████████████████░░░░░░░░░   63.93 % 
-Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-CSS                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+PHP                      21 hrs 10 mins      ███████████████░░░░░░░░░░   61.10 % 
+Astro                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+HTML                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+CSS                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TypeScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-Cursor                   32 hrs 4 mins       █████████████████████████   100.00 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   34 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arenda                   20 hrs 57 mins      ████████████████░░░░░░░░░   65.30 % 
-partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-arenda-front             3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-personal                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-arivio                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+arenda                   20 hrs 57 mins      ███████████████░░░░░░░░░░   60.48 % 
+partners                 3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+arenda-front             3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+cms                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+personal                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 💻 Operating System: 
-Linux                    32 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    34 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -127,5 +126,5 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:42:54 UTC
+ Last Updated on 26/07/2026 19:44:44 UTC
 <!--END_SECTION:waka-->
