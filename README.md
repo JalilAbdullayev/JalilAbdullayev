@@ -46,17 +46,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C659%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 807.6 kB Used in GitHub's Storage 
+> 📦 807.8 kB Used in GitHub's Storage 
  > 
-> 🏆 787 Contributions in the Year 2026
+> 🏆 796 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1015 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌆 Daytime                1318 commits        ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌃 Evening                763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌞 Morning                1022 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
+🌆 Daytime                1320 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
+🌃 Evening                763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
 🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Tuesday                  521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Wednesday                480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Thursday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Sunday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Monday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Friday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Saturday                 411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Sunday                   407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 ```
 
 
@@ -91,47 +91,49 @@ Sunday                   398 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      30 hrs 14 mins      ████████████████░░░░░░░░░   63.09 % 
-TypeScript               5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Vue                      3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Blade Template           2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+PHP                      29 hrs 34 mins      █████████████░░░░░░░░░░░░   52.00 % 
+TypeScript               15 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Vue                      3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JavaScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Cursor                   47 hrs 45 mins      █████████████████████████   99.64 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Cursor                   56 hrs 42 mins      █████████████████████████   99.70 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-arenda                   37 hrs 27 mins      ████████████████████░░░░░   78.13 % 
-wallet                   3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-arivio                   3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-cms                      2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-uploads                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+arenda                   37 hrs 27 mins      ████████████████░░░░░░░░░   65.83 % 
+wallet                   14 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+arivio                   3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+uploads                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+terminals                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    47 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    56 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 45 mins (55.83%)
+⏱ AI Coding Time: 35 hrs 43 mins (62.8%)
 
-✍️ 36,196 lines written by AI, 1,643 lines written by hand (95.66% AI-written)
+✍️ 38,996 lines written by AI, 1,625 lines written by hand (96.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 221 AI Prompts
+🧠 32 AI Sessions, 308 AI Prompts
 
-Opus                     5,433 lines         █████████████████████████   100.00 % 
+Opus                     5,433 lines         ████████████████████████░   94.37 % 
+Gemini                   270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+GPT                      54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.66% of written lines came from AI
-📝 Concise Prompter — average 188 characters per prompt
+🤖 AI-Driven — 96.0% of written lines came from AI
+📝 Concise Prompter — average 209 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 10.14% of changed lines were hand-edited
+🚀 High AI Trust — 8.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -151,5 +153,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:43:37 UTC
+ Last Updated on 02/08/2026 19:43:40 UTC
 <!--END_SECTION:waka-->
