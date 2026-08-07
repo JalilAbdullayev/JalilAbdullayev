@@ -50,28 +50,99 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 818.6 kB Used in GitHub's Storage 
+> 📦 819.2 kB Used in GitHub's Storage 
  > 
-> 🏆 809 Contributions in the Year 2026
+> 🏆 818 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1070 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌆 Daytime                1400 commits        ███████████░░░░░░░░░░░░░░   42.44 % 
+🌃 Evening                776 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌙 Night                  53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  545 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 519 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Friday                   513 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Sunday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baku
+
+💬 Programming Languages: 
+TypeScript               18 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.31 % 
+PHP                      16 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Astro                    8 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Vue                      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+
+🔥 Editors: 
+Cursor                   54 hrs 40 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+arenda                   22 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.59 % 
+wallet                   16 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+new-complexes            9 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+starter-kit              3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+arivio                   2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+
+💻 Operating System: 
+Linux                    54 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 34 hrs 3 mins (62.28%)
+
+✍️ 29,981 lines written by AI, 2,706 lines written by hand (91.72% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 52 AI Sessions, 351 AI Prompts
+
+Grok                     6,897 lines         ███████████████████████░░   93.30 % 
+Gemini                   270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+GPT                      225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.72% of written lines came from AI
+📄 Detailed Prompter — average 514 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 11.66% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      32 repos            ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Astro                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Vue                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+PHP                      32 repos            ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Astro                    14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Vue                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -81,5 +152,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:18 UTC
+ Last Updated on 07/08/2026 19:29:13 UTC
 <!--END_SECTION:waka-->
