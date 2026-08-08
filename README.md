@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C703%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,48 +91,50 @@ Sunday                   408 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-TypeScript               18 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.31 % 
-PHP                      16 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Astro                    8 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Vue                      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TypeScript               17 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.32 % 
+PHP                      15 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Astro                    12 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Blade Template           2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Cursor                   54 hrs 40 mins      █████████████████████████   100.00 % 
+Cursor                   53 hrs 44 mins      █████████████████████████   99.80 % 
+Agent                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-arenda                   22 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.59 % 
-wallet                   16 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-new-complexes            9 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-starter-kit              3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-arivio                   2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+wallet                   17 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.03 % 
+arenda                   14 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+new-complexes            12 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+arivio                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+starter-kit              3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 💻 Operating System: 
-Linux                    54 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    53 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 3 mins (62.28%)
+⏱ AI Coding Time: 32 hrs 19 mins (60.03%)
 
-✍️ 29,981 lines written by AI, 2,706 lines written by hand (91.72% AI-written)
+✍️ 31,670 lines written by AI, 2,690 lines written by hand (92.17% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 84,561 Input Tokens, 84,561 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.52 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 351 AI Prompts
+🧠 69 AI Sessions, 381 AI Prompts
 
-Grok                     6,897 lines         ███████████████████████░░   93.30 % 
-Gemini                   270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-GPT                      225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Grok                     8,730 lines         ███████████████████████░░   93.13 % 
+GPT                      374 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Gemini                   270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.72% of written lines came from AI
-📄 Detailed Prompter — average 514 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 11.66% of changed lines were hand-edited
+🤖 AI-Driven — 92.17% of written lines came from AI
+📄 Detailed Prompter — average 1,381 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 11.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -152,5 +154,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:29:13 UTC
+ Last Updated on 08/08/2026 19:09:31 UTC
 <!--END_SECTION:waka-->
