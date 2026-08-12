@@ -46,15 +46,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C720%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C728%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 819.2 kB Used in GitHub's Storage 
+> 📦 819.3 kB Used in GitHub's Storage 
  > 
 > 🏆 828 Contributions in the Year 2026
  > 
@@ -91,49 +91,49 @@ Sunday                   408 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      16 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.13 % 
-Astro                    11 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Blade Template           2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-TypeScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+PHP                      16 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.55 % 
+Astro                    11 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+TypeScript               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Blade Template           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-Cursor                   36 hrs 52 mins      █████████████████████████   98.24 % 
-VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Agent                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Cursor                   39 hrs 6 mins       █████████████████████████   98.05 % 
+VS Code                  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Agent                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-arenda                   14 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   39.28 % 
-new-complexes            10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-arivio                   4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-starter-kit              3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-livementors              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+arenda                   15 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   40.09 % 
+livementors              6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+new-complexes            6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+arivio                   3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+starter-kit              3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 💻 Operating System: 
-Linux                    37 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 37 mins (49.63%)
+⏱ AI Coding Time: 20 hrs 45 mins (52.03%)
 
-✍️ 13,166 lines written by AI, 2,345 lines written by hand (84.88% AI-written)
+✍️ 12,226 lines written by AI, 2,266 lines written by hand (84.36% AI-written)
 
-🔤 133,731 Input Tokens, 133,731 Output Tokens
+🔤 205,350 Input Tokens, 205,350 Output Tokens
 
-💵 $2.41 Estimated AI Cost This Week
+💵 $3.70 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 242 AI Prompts
+🧠 58 AI Sessions, 258 AI Prompts
 
-Grok                     6,373 lines         █████████████████████████   100.00 % 
+Grok                     5,406 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.88% of written lines came from AI
-📚 Verbose Prompter — average 2,441 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.29% of changed lines were hand-edited
+🤖 AI-Driven — 84.36% of written lines came from AI
+📚 Verbose Prompter — average 3,420 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 21.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +153,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:36:10 UTC
+ Last Updated on 12/08/2026 19:36:47 UTC
 <!--END_SECTION:waka-->
