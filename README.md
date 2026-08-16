@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,49 +91,49 @@ Sunday                   408 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Astro                    17 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.71 % 
-PHP                      8 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-TypeScript               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Astro                    17 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.88 % 
+PHP                      8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+CSS                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Cursor                   34 hrs 55 mins      █████████████████████████   98.06 % 
-VS Code                  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Cursor                   35 hrs 43 mins      ████████████████████████░   96.63 % 
+VS Code                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-livementors              19 hrs 21 mins      ██████████████░░░░░░░░░░░   54.38 % 
-arenda                   7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-arivio                   4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-fresh-project            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-rest-deno                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+livementors              19 hrs 21 mins      █████████████░░░░░░░░░░░░   52.38 % 
+arenda                   7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+arivio                   5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+fresh-project            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+rest-deno                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Linux                    35 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 2 mins (50.68%)
+⏱ AI Coding Time: 18 hrs 47 mins (50.82%)
 
-✍️ 5,665 lines written by AI, 2,263 lines written by hand (71.46% AI-written)
+✍️ 5,782 lines written by AI, 2,289 lines written by hand (71.64% AI-written)
 
-🔤 121,900 Input Tokens, 121,900 Output Tokens
+🔤 144,695 Input Tokens, 144,695 Output Tokens
 
-💵 $2.19 Estimated AI Cost This Week
+💵 $2.60 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 206 AI Prompts
+🧠 50 AI Sessions, 213 AI Prompts
 
 Grok                     560 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.46% of written lines came from AI
-📚 Verbose Prompter — average 2,605 characters per prompt
+🤖 AI-Driven — 71.64% of written lines came from AI
+📚 Verbose Prompter — average 2,948 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 33.05% of changed lines were hand-edited
+🚀 High AI Trust — 32.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +153,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:56:02 UTC
+ Last Updated on 16/08/2026 18:55:27 UTC
 <!--END_SECTION:waka-->
