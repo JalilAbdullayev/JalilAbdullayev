@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C748%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,49 +91,49 @@ Sunday                   408 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Astro                    17 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.88 % 
-PHP                      8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-CSS                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Astro                    17 hrs 42 mins      █████████████░░░░░░░░░░░░   50.28 % 
+PHP                      7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+CSS                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Cursor                   35 hrs 43 mins      ████████████████████████░   96.63 % 
-VS Code                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Cursor                   34 hrs 55 mins      █████████████████████████   99.21 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-livementors              19 hrs 21 mins      █████████████░░░░░░░░░░░░   52.38 % 
-arenda                   7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-arivio                   5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-fresh-project            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-rest-deno                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+livementors              19 hrs 21 mins      ██████████████░░░░░░░░░░░   55.00 % 
+arenda                   7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+arivio                   3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+fresh-project            1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+rest-deno                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    36 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 47 mins (50.82%)
+⏱ AI Coding Time: 17 hrs 13 mins (48.93%)
 
-✍️ 5,782 lines written by AI, 2,289 lines written by hand (71.64% AI-written)
+✍️ 4,892 lines written by AI, 2,489 lines written by hand (66.28% AI-written)
 
-🔤 144,695 Input Tokens, 144,695 Output Tokens
+🔤 139,597 Input Tokens, 139,597 Output Tokens
 
-💵 $2.60 Estimated AI Cost This Week
+💵 $2.51 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 213 AI Prompts
+🧠 45 AI Sessions, 195 AI Prompts
 
 Grok                     560 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.64% of written lines came from AI
-📚 Verbose Prompter — average 2,948 characters per prompt
+🤖 AI-Driven — 66.28% of written lines came from AI
+📚 Verbose Prompter — average 3,129 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 32.94% of changed lines were hand-edited
+🚀 High AI Trust — 36.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +153,5 @@ Blade                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:55:27 UTC
+ Last Updated on 17/08/2026 19:09:02 UTC
 <!--END_SECTION:waka-->
