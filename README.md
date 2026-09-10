@@ -54,9 +54,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 883.4 kB Used in GitHub's Storage 
+> 📦 883.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,026 Contributions in the Year 2026
+> 🏆 1,030 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1130 commits        ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌆 Daytime                1485 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
-🌃 Evening                830 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+🌞 Morning                1132 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
+🌆 Daytime                1486 commits        ███████████░░░░░░░░░░░░░░   42.36 % 
+🌃 Evening                831 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 🌙 Night                  59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Tuesday                  563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                527 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Friday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Sunday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Monday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Tuesday                  563 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Wednesday                527 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Thursday                 572 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Sunday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 
 
@@ -91,47 +91,47 @@ Sunday                   413 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Blade Template           11 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Astro                    9 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-PHP                      9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-CSS                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-TypeScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Astro                    12 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Blade Template           10 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+TypeScript               6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+PHP                      5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+JavaScript               2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 24 mins      ██████████████░░░░░░░░░░░   57.08 % 
-Agent                    18 hrs 21 mins      ███████████░░░░░░░░░░░░░░   42.92 % 
+Cursor                   24 hrs 48 mins      ██████████████░░░░░░░░░░░   55.89 % 
+Agent                    19 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.11 % 
 
 🐱‍💻 Projects: 
-kapital                  19 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.23 % 
-livementors              10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-websoft                  4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-livementors-front        2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-task-manager             2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+livementors              15 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+kapital                  9 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+task-manager             7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+livementors-front        5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+websoft                  4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 💻 Operating System: 
-Windows                  42 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 9 mins (89.26%)
+⏱ AI Coding Time: 39 hrs 5 mins (88.06%)
 
-✍️ 6,399 lines written by AI, 4,127 lines written by hand (60.79% AI-written)
+✍️ 4,587 lines written by AI, 4,848 lines written by hand (48.62% AI-written)
 
-🔤 2,757,258 Input Tokens, 2,757,258 Output Tokens
+🔤 2,396,446 Input Tokens, 2,396,446 Output Tokens
 
-💵 $49.63 Estimated AI Cost This Week
+💵 $43.14 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 1528 AI Prompts
+🧠 79 AI Sessions, 1723 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.79% of written lines came from AI
-📚 Verbose Prompter — average 7,261 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 41.06% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.62% of written lines came from AI
+📚 Verbose Prompter — average 5,587 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🔍 Hands-On Reviewer — 54.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -151,5 +151,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:06:01 UTC
+ Last Updated on 10/09/2026 21:04:51 UTC
 <!--END_SECTION:waka-->
