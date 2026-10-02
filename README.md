@@ -54,9 +54,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 885.4 kB Used in GitHub's Storage 
+> 📦 885.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,125 Contributions in the Year 2026
+> 🏆 1,135 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1167 commits        ████████░░░░░░░░░░░░░░░░░   32.31 % 
-🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   42.80 % 
-🌃 Evening                840 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌞 Morning                1168 commits        ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌆 Daytime                1552 commits        ███████████░░░░░░░░░░░░░░   42.85 % 
+🌃 Evening                843 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 🌙 Night                  59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Wednesday                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   572 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Saturday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Sunday                   424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Monday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Friday                   582 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Saturday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Sunday                   424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 
@@ -91,54 +91,54 @@ Sunday                   424 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      14 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   37.11 % 
-TypeScript               6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Blade Template           4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Vue                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Markdown                 3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+PHP                      11 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+TypeScript               7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Blade Template           4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Vue                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Markdown                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-Cursor                   34 hrs 54 mins      ███████████████████████░░   90.20 % 
-Agent                    3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Cursor                   31 hrs 59 mins      ██████████████████████░░░   89.04 % 
+Agent                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 🐱‍💻 Projects: 
-livementors              12 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.59 % 
-kontakt-clone            7 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-personal                 5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-websoft                  4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-arenda                   3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+kontakt-clone            8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+livementors              7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+websoft                  5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+personal                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+arenda                   4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 
 💻 Operating System: 
-Windows                  38 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 40 mins (50.84%)
+⏱ AI Coding Time: 16 hrs 1 min (44.59%)
 
-✍️ 10,605 lines written by AI, 2,894 lines written by hand (78.56% AI-written)
+✍️ 7,511 lines written by AI, 3,271 lines written by hand (69.66% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 216 AI Prompts
+🧠 30 AI Sessions, 193 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.56% of written lines came from AI
-📚 Verbose Prompter — average 2,308 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 24.52% of changed lines were hand-edited
+🤖 AI-Driven — 69.66% of written lines came from AI
+📝 Concise Prompter — average 389 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 33.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      35 repos            ████████░░░░░░░░░░░░░░░░░   30.70 % 
+PHP                      36 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Astro                    15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
@@ -149,5 +149,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:51:54 UTC
+ Last Updated on 02/10/2026 22:27:17 UTC
 <!--END_SECTION:waka-->
