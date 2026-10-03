@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C015%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C024%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,45 +91,45 @@ Sunday                   424 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      11 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
-TypeScript               7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Blade Template           4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Vue                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Markdown                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+PHP                      14 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Blade Template           7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+TypeScript               7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Markdown                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Vue                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🔥 Editors: 
-Cursor                   31 hrs 59 mins      ██████████████████████░░░   89.04 % 
-Agent                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Cursor                   36 hrs 47 mins      ██████████████████████░░░   86.80 % 
+Agent                    5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 
 🐱‍💻 Projects: 
-kontakt-clone            8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-livementors              7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-websoft                  5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-personal                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-arenda                   4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+websoft                  14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
+kontakt-clone            8 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+livementors              7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+personal                 5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+arenda                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Windows                  35 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 1 min (44.59%)
+⏱ AI Coding Time: 21 hrs 13 mins (50.06%)
 
-✍️ 7,511 lines written by AI, 3,271 lines written by hand (69.66% AI-written)
+✍️ 12,242 lines written by AI, 3,990 lines written by hand (75.42% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 193 AI Prompts
+🧠 30 AI Sessions, 242 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.66% of written lines came from AI
-📝 Concise Prompter — average 389 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 33.48% of changed lines were hand-edited
+🤖 AI-Driven — 75.42% of written lines came from AI
+📚 Verbose Prompter — average 4,838 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 26.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -149,5 +149,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:27:17 UTC
+ Last Updated on 03/10/2026 21:36:54 UTC
 <!--END_SECTION:waka-->
