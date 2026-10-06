@@ -46,17 +46,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 886.0 kB Used in GitHub's Storage 
+> 📦 886.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,152 Contributions in the Year 2026
+> 🏆 1,158 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1171 commits        ████████░░░░░░░░░░░░░░░░░   32.19 % 
-🌆 Daytime                1564 commits        ███████████░░░░░░░░░░░░░░   42.99 % 
-🌃 Evening                844 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+🌞 Morning                1174 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌆 Daytime                1567 commits        ███████████░░░░░░░░░░░░░░   43.00 % 
+🌃 Evening                844 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
 🌙 Night                  59 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   582 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Monday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Tuesday                  590 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Wednesday                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Friday                   582 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Sunday                   429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 
 
@@ -135,10 +135,10 @@ Windows                  45 hrs 38 mins      ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      36 repos            ████████░░░░░░░░░░░░░░░░░   31.30 % 
+PHP                      37 repos            ████████░░░░░░░░░░░░░░░░░   32.17 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 Astro                    15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 HTML                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Blade                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
@@ -149,5 +149,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:15:49 UTC
+ Last Updated on 06/10/2026 22:46:47 UTC
 <!--END_SECTION:waka-->
