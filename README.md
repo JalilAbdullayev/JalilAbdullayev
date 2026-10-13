@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C073%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C081%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,49 +91,53 @@ Sunday                   457 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Blade Template           17 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.16 % 
-PHP                      14 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   34.29 % 
-Markdown                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-TypeScript               3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Blade Template           15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   41.23 % 
+PHP                      15 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.05 % 
+Markdown                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+TypeScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 46 mins      █████████████░░░░░░░░░░░░   51.05 % 
-Agent                    20 hrs 8 mins       ████████████░░░░░░░░░░░░░   47.22 % 
-VS Code                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Bot                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Agent                    18 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.51 % 
+Cursor                   16 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.87 % 
+Opencode Cli             1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Bot                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-gdm                      14 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.68 % 
-kapital                  9 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-rayonda                  5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-kontakt-clone            3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-rayonda-admin            2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+gdm                      20 hrs 7 mins       █████████████░░░░░░░░░░░░   52.88 % 
+rayonda                  6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+kapital                  4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+rayonda-admin            2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+livementors              1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 💻 Operating System: 
-Windows                  42 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 49 mins (55.86%)
+⏱ AI Coding Time: 18 hrs 54 mins (49.67%)
 
-✍️ 8,749 lines written by AI, 3,633 lines written by hand (70.66% AI-written)
+✍️ 5,636 lines written by AI, 2,750 lines written by hand (67.21% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 443,107 Input Tokens, 136,584 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $46.12 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 295 AI Prompts
+🧠 38 AI Sessions, 247 AI Prompts
 
-Cursor                   4,892 lines         █████████████████████████   100.00 % 
+Cursor                   4,892 lines         ██████████████████████░░░   88.70 % 
+Opencode-Cli             334 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+MiMo                     289 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.66% of written lines came from AI
-📚 Verbose Prompter — average 2,898 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 33.56% of changed lines were hand-edited
+🤖 AI-Driven — 67.21% of written lines came from AI
+📚 Verbose Prompter — average 3,385 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 68.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -153,5 +157,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:13:36 UTC
+ Last Updated on 13/10/2026 00:56:30 UTC
 <!--END_SECTION:waka-->
