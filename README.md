@@ -91,53 +91,52 @@ Sunday                   457 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Blade Template           13 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.88 % 
-PHP                      12 hrs              █████████░░░░░░░░░░░░░░░░   37.57 % 
-Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Blade Template           14 hrs 41 mins      ████████████░░░░░░░░░░░░░   47.64 % 
+PHP                      9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Markdown                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.63 % 
-Agent                    12 hrs              █████████░░░░░░░░░░░░░░░░   37.58 % 
-VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Opencode Cli             1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Cursor Agent             1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Cursor                   14 hrs 15 mins      ████████████░░░░░░░░░░░░░   46.28 % 
+Agent                    12 hrs              ██████████░░░░░░░░░░░░░░░   38.97 % 
+Cursor Agent             2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+VS Code                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+CLI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-gdm                      12 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
-livementors              7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-todo-app                 5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-kontakt-clone            2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-kapitalist-admin         59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+livementors              8 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+todo-app                 8 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+gdm                      7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+kontakt-clone            2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+kapitalist-admin         59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  31 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 43 mins (58.6%)
+⏱ AI Coding Time: 16 hrs 12 mins (52.58%)
 
-✍️ 5,841 lines written by AI, 1,684 lines written by hand (77.62% AI-written)
+✍️ 5,480 lines written by AI, 1,915 lines written by hand (74.1% AI-written)
 
-🔤 5,758,891 Input Tokens, 439,255 Output Tokens
+🔤 440,440 Input Tokens, 56,513 Output Tokens
 
-💵 $289.68 Estimated AI Cost This Week
+💵 $24.02 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 158 AI Prompts
+🧠 27 AI Sessions, 139 AI Prompts
 
-Cursor                   5,245 lines         ████████████████████░░░░░   80.97 % 
-Opencode-Cli             685 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Default                  506 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-MiMo                     42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Cursor                   5,245 lines         ██████████████████████░░░   86.57 % 
+Default                  734 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Opencode-Cli             80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.62% of written lines came from AI
-📝 Concise Prompter — average 403 characters per prompt
+🤖 AI-Driven — 74.1% of written lines came from AI
+📝 Concise Prompter — average 450 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 26.45% of changed lines were hand-edited
+🚀 High AI Trust — 29.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -157,5 +156,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JalilAbdullayev/JalilAbdullayev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 21:49:20 UTC
+ Last Updated on 21/10/2026 21:56:10 UTC
 <!--END_SECTION:waka-->
