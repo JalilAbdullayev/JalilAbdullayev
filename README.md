@@ -37,10 +37,4 @@
 | **Back-end** | Laravel, NestJS |
 | **Full-stack** | Livewire, Filament |
 | **Databases** | MySQL, SQLite |
-| **Tools** | Git, Postman, Antigravity IDE & CLI, Warp, Netlify |
-
-<p>
-    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
-    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="Jalil Abdulla" />
-</p>
+| **Tools** | Git, Postman, VS Code, Cluade Code, Warp, Vercel |
